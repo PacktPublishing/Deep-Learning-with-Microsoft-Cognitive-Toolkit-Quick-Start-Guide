@@ -1,2 +1,6 @@
+# Exclude python and jupyter temporary files.
 *.pyc
 .ipynb_checkpoints/
+
+# Exclude any prepared training files.
+*.ctf
