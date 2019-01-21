@@ -8,3 +8,6 @@
 # Exclude the datasets for chapter 5
 ch5/mnist_train/
 ch5/mnist_test/
+
+# Exclude the log files for chapter 4
+ch4/logs/
