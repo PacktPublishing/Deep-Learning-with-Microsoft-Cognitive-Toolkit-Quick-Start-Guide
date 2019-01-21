@@ -4,3 +4,7 @@
 
 # Exclude any prepared training files.
 *.ctf
+
+# Exclude the datasets for chapter 5
+ch5/mnist_train/
+ch5/mnist_test/
