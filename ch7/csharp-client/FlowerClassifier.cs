@@ -40,7 +40,7 @@ namespace PredictSpecies
         public static FlowerClassifier Create()
         {
             var deviceDescriptor = DeviceDescriptor.CPUDevice;
-            var function = Function.Load("model.onnx", deviceDescriptor);
+            var function = Function.Load("model.onnx", deviceDescriptor, ModelFormat.ONNX);
 
             return new FlowerClassifier(function, deviceDescriptor);
         }
