@@ -2,7 +2,7 @@
 
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/deep-learning-microsoft-cognitive-toolkit-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789802993"><img src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/m/o/mockupcover_12725.png" alt="Deep Learning with Microsoft Cognitive Toolkit Quick Start Guide" height="256px" align="right"></a>
 
-This is the code repository for [Deep Learning with Microsoft Cognitive Toolkit Quick Start Guide](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Deep Learning with Microsoft Cognitive Toolkit Quick Start Guide](https://prod.packtpub.com/in/big-data-and-business-intelligence/deep-learning-microsoft-cognitive-toolkit-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789802993), published by Packt.
 
 **A practical guide to building neural networks using Microsoft's open source deep learning framework**
 
