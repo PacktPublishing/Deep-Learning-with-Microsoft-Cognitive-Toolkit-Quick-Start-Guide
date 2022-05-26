@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B12725?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Deep Learning with Microsoft Cognitive Toolkit Quick Start Guide
 
 <a href="https://prod.packtpub.com/in/big-data-and-business-intelligence/deep-learning-microsoft-cognitive-toolkit-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789802993"><img src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/m/o/mockupcover_12725.png" alt="Deep Learning with Microsoft Cognitive Toolkit Quick Start Guide" height="256px" align="right"></a>
